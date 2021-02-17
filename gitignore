@@ -1,15 +1,23 @@
+//maven
 *.classpath
 *.project
 *.settings
 /bin/*
 /target/*
 .mvn
+
+
+//compiled files
 *.class
+
+//package files
 *.jar
 *.war
 *.ear
 *.zip
 *.tar.gz
 *.rar
+
+//Intellij Files
 .idea/
 *.iml
