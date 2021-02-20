@@ -1,4 +1,4 @@
-//maven
+#maven
 *.classpath
 *.project
 *.settings
@@ -7,10 +7,10 @@
 .mvn
 
 
-//compiled files
+#compiled files
 *.class
 
-//package files
+#package files
 *.jar
 *.war
 *.ear
@@ -18,6 +18,6 @@
 *.tar.gz
 *.rar
 
-//Intellij Files
+#Intellij Files
 .idea/
 *.iml
