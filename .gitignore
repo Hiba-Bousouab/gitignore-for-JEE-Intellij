@@ -21,3 +21,9 @@
 #Intellij Files
 .idea/
 *.iml
+
+
+# Eclipse
+.project
+.classpath
+.settings
